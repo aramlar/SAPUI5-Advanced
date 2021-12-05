@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "experimentalDecorators": true,
     "module": "none",
     "noEmit": true,
     "checkJs": true,

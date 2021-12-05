@@ -17,5 +17,9 @@
     "dependencies": [
       "@sap/ui5-builder-webide-extension"
     ]
+  },
+  "dependencies": {
+    "@sap/approuter": "^10.10.1",
+    "@sap/html5-repo-mock": "^2.1.0"
   }
 }
